@@ -1,4 +1,4 @@
-# DyNet: A Simple Neural Network Implementation in C
+# DyNeuro: A Simple Neural Network Implementation in C
 
 DyNet is a lightweight neural network implementation in C, designed for educational purposes and small-scale machine learning tasks. It includes basic matrix operations, activation functions, and an Adam optimizer for training. The project also demonstrates dynamic network growth by adding neurons or layers during training if the loss improvement stalls.
 
@@ -35,7 +35,7 @@ The project uses the following standard C libraries:
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/SadhuSoumik/DyNet.git
+   git clone https://github.com/SadhuSoumik/DyNeuro.git
    cd DyNet
    ```
 
