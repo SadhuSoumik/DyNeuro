@@ -35,7 +35,7 @@ The project uses the following standard C libraries:
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/DyNet.git
+   git clone https://github.com/SadhuSoumik/DyNet.git
    cd DyNet
    ```
 
